@@ -12,9 +12,9 @@ Este laboratorio nos introduce a la tarjeta de desarrollo ZYBO Z7 y un primer ej
     2.4.- LAB01_VIVADO_Projecy.rar:  Contine el projecto en vivado desarrollado en el laboratorio    
     2.5.- LAB01_ZYBOZ7_Instrucciones.pdf:  Contine la guía de desarrollo asociada a este laboratorio. 
 
-3.- Previo al Quiz01, realizado en los primeros 15min de cada laboratorio, debes estudiar personalizadamente:
+3.- Previo al Quiz01, realizado en los primeros 15min de cada laboratorio, debes estudiar personalizadamente:  [a](ZyboZ7-Reference-Manual.pdf)
 
     3.1.- Ver y ejecutar el video del laboratorio.
     3.2.- Contenidos de la Ayudantia 0: Instalacion de software.
     3.3.- Lectura01 IEE2463
-    3.4.- ZYBO Z7 Reference Manual: Capitulos: Overview; 1, 2.
+    3.4.- [ZYBO Z7 Reference Manual](): Capitulos: Overview; 1, 2.
