@@ -15,7 +15,7 @@ Este laboratorio nos introduce a la tarjeta de desarrollo ZYBO Z7 y un primer ej
 3. Previo al Quiz01, realizado en los primeros 15min de cada laboratorio, debes estudiar personalizadamente:  
     * Ver y ejecutar el [video del laboratorio 01](https://www.youtube.com/watch?v=CrouHkR0WBU).
     * Contenidos de la [Ayudantia 00](https://www.youtube.com/watch?v=cnd4IJH-XsY): Instalacion de software.
-    * [Lectura01 IEE2463]()
+    * [Lectura01 IEE2463](https://github.com/IEE2463-SEP/Lecturas/tree/main)
     * [ZYBO Z7 Reference Manual](https://github.com/IEE2463-SEP/Documentacion/blob/main/ZyboZ7-Reference-Manual.pdf): Capitulos: Overview; 1 y 2.
 
 4.- [Actividad Práctica LAB01](https://github.com/IEE2463-SEP/LAB01-Vivado-Hello-World/blob/main/LAB01_VHDL.pptx)
